@@ -107,7 +107,7 @@ curl -X POST https://your-api.execute-api.us-east-1.amazonaws.com/shorten \
 |:--------------------------------------------------------:|:---------------------------------------------------:|  
 | *AWS Lambda Functions*                                   | *DynamoDB Tables*                                  |  
 
-| ![API Gateway Setup](public/images/api-gateway.png)        | ![Vercel Deployment](public/images/preview-url.png) |  
+| ![API Gateway Setup](public/images/api-gateway-stage.png)        | ![Vercel Deployment](public/images/preview-url.png) |  
 |:--------------------------------------------------------:|:---------------------------------------------------:|  
 | *API Gateway Configuration*                             | *Live Frontend on Vercel*                          |  
 
